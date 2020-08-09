@@ -1,0 +1,40 @@
+body{
+	margin:0;
+	font-family: sans-serif;
+
+}
+.navbar{
+background-color: #000;
+
+}
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 10px;
+}
+li{
+	display: inline;
+
+}
+ul a{
+	text-decoration: none;
+	padding: 20px;
+	margin: 20px;
+	color: #fff;
+
+
+}
+.menu a{
+	float: right;
+	color: grey;
+	margin: 0;
+	padding: 0;
+	padding-right: 18px;
+}
+.menu a:hover{
+	color: #fff;
+	transition: 0.3s;
+}
+
+
+
